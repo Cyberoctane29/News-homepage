@@ -1,0 +1,157 @@
+.navigation {
+margin-bottom: 20px;
+}
+body{
+  padding:0% 10% 2% 10%;
+}
+.nav-link{
+  color: black;
+}
+:hover.nav-link{
+  color:#6B728E;
+}
+.navigator{
+  padding:2% 5% 0% 0%;
+}
+
+.blocks{
+height:58%;
+}
+.new{
+  height:85%;
+  width:23%;
+  background:hsl(240, 100%, 5%);
+  position:absolute;
+  right: 140px;
+  padding:2%;
+}
+.navelement{
+  padding-right:6%;
+  font-size: 100%;
+}
+h1{
+  color: hsl(35, 77%, 62%);
+  font-family: 'noto sans';
+  font-weight: 600;
+}
+h2{
+  color:#fff;
+  font-size: 23px;
+  margin-top: 10%;
+  font-family: 'noto sans';
+  font-weight: 700;
+}
+h3{
+  color:#6B728E;
+  font-size: 15px;
+  padding:4% 0%;
+  line-height: 25px;
+}
+hr{
+  color: #fff;
+  border-top: solid white;
+
+}
+.tag{
+  position: absolute;
+  bottom:20px;
+
+}
+.tagline{
+font-family: 'noto sans';
+    color: #000;
+    font-weight: 800;
+    font-size: 60px;
+
+}
+.read{
+  padding:2% 38%;
+position: absolute;
+bottom:54px;
+right:-15px;
+}
+.readline{
+  font-size: 110%;
+  color: #6B728E;
+  line-height: 27px;
+}
+.button-50 {
+    height:49px;
+    width:200px;
+  appearance: button;
+  background-color:hsl(5, 85%, 63%);
+  background-image: none;
+  border: 1px solid #000;
+  border-radius: 4px;
+  box-shadow: #B73E3E 4px 4px 0 0, #000 4px 4px 0 1px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Montserrat";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 20% 5% 10% 0%;
+  overflow: visible;
+  padding: 14px 30px;
+  text-align: center;
+  text-transform: none;
+  touch-action: manipulation;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  position:absolute;
+  bottom:-45px;
+  right:45%;
+}
+
+.button-50:focus {
+  text-decoration: none;
+}
+
+.button-50:hover {
+  text-decoration: none;
+}
+
+.button-50:active {
+  box-shadow: rgba(0, 0, 0, .125) 0 3px 5px inset;
+  outline: 0;
+}
+
+.button-50:not([disabled]):active {
+  box-shadow: #C9BBCF 2px 2px 0 0, #1d1716 2px 2px 0 1px;
+  transform: translate(2px, 2px);
+}
+.readmore {
+  margin: 10% 3% 5% 0;
+  font-family: 'Poppins';
+  font-weight: 400;
+}
+.info{
+  margin-top: 5%;
+  margin-left: 10%;
+  position: absolute;
+  right:10%;
+}
+.infoimg{
+  width:315%;
+  padding:20%;
+}
+.infohead1{
+  color: #7D9D9C;
+}
+.infohead2{
+  color:#000;
+}
+.inf{
+  padding:30%;
+  margin-left:68px;
+  white-space: nowrap;
+}
+.hori{
+  margin-top: 10%;
+  color: #000;
+  border-top: solid black;
+}

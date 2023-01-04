@@ -1,3 +1,5 @@
+I completed this front-end coding challenge by frontend mentor.
+
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
